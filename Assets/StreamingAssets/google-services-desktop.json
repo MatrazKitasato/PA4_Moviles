@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679936423857",
+    "project_id": "pa4mobiles",
+    "storage_bucket": "pa4mobiles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679936423857:android:a2a3e7fa441522604a6f90",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.com.unity.template.mobile2D"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCijkJUGsBde9ktoJfDhU-uYgNfGFfA_O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
